@@ -1,4 +1,4 @@
-# BetterSelf.AI — AI Habit Building App (Prototype)
+# BetterSelf.AI - AI Habit Building App (Prototype)
 
 A fully clickable MVP prototype of an AI-powered habit-building platform that helps users become their best version through personalized daily plans, stage-based task unlocking, and reflective check-ins.
 
